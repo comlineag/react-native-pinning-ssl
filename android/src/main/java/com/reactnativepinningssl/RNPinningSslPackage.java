@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.reactnativepinningssl;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.NativeModule;
@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.reactlibrary.RNPinningSsl;
+import com.reactnativepinningssl.RNPinningSsl;
 
 public class RNPinningSslPackage implements ReactPackage {
 
